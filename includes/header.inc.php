@@ -24,7 +24,19 @@
                             <a href="<?php echo $base_url;?>how-reserve-company-name.php" class="dropdown-item fw-medium rounded-3 p-2 rounded-2">How to Reserve a Company Name in the UK</a>
                         </li>  
                         <li class="dropdown">
-                            <a href="<?php echo $base_url;?>register-company.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Register a Company Name in the UK</a>
+                            <a href="<?php echo $base_url;?>register-company-name-uk.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Register a Company Name in the UK</a>
+                        </li>  
+                        <li class="dropdown">
+                            <a href="<?php echo $base_url;?>non-uk resident-company.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Non-UK Resident Company Formations</a>
+                        </li>  
+                        <li class="dropdown">
+                            <a href="<?php echo $base_url;?>registered-office.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Registered Office</a>
+                        </li>  
+                        <li class="dropdown">
+                            <a href="<?php echo $base_url;?>director-service-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Director’s Service Address</a>
+                        </li>  
+                        <li class="dropdown">
+                            <a href="<?php echo $base_url;?>guide-company-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Guide – Company Address</a>
                         </li>  
                         <!-- <ul class="dropdown-menu p-2 rounded-3 border-0 bg-white dropdown-submenu">
                             <li>

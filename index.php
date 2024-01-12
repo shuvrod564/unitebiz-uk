@@ -154,7 +154,7 @@
                     </p> 
                 </div><!--//.col-->
             </div><!--//.row-->
-            <div class="mt-3 bg__img mb-3">
+            <div class="mt-3 bg__img">
                 <img class="img-fluid w-100" width="1296" height="397" src="assets/images/home/need-to-know.webp" alt="We Guarantee"> 
             </div>
             <div class="row g-4 align-items-center">
@@ -208,19 +208,19 @@
             <h2 class="h2 text-gray text-center fw-bold mb-3 mb-lg-4">We are Business Consulting Professionals</h2>
             <div class="owl-carousel authorSlider">
                 <div class="author__box">
-                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/home/blog/author-1.webp" alt="Business">
+                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/blog/author-1.webp" alt="Business">
                 </div> 
                 <div class="author__box">
-                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/home/blog/author-2.webp" alt="Business">
+                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/blog/author-2.webp" alt="Business">
                 </div> 
                 <div class="author__box">
-                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/home/blog/author-3.webp" alt="Business">
+                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/blog/author-3.webp" alt="Business">
                 </div> 
                 <div class="author__box">
-                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/home/blog/author-4.webp" alt="Business">
+                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/blog/author-4.webp" alt="Business">
                 </div> 
                 <div class="author__box">
-                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/home/blog/author-5.webp" alt="Business">
+                    <img class="img-fluid w-100" width="373" height="433" src="assets/images/blog/author-5.webp" alt="Business">
                 </div>  
             </div>
         </div>
@@ -253,21 +253,21 @@
 
     <!-- Trusted by over 100+ companies Start -->
     <section class="py-3 py-lg-5" style="background-color: #FAFAFA;">
-        <div class="container mb-lg-4">
-            <h2 class="h2 text-primary fw-bold text-center text-lg-start mb-3 mb-lg-4">Trusted by over 100+ companies</h2>
-            <div class="row g-4 row-cols-xl-6 row-cols-md-3 row-cols-sm-2 justify-content-between"> 
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-1.webp" alt="partner"> 
+        <div class="container-fluid px-0 mb-lg-4">
+            <h2 class="h2 text-primary fw-bold text-center mb-3 mb-lg-4">Trusted by over 100+ companies</h2> 
+            <div class=" owl-carousel truatedSlider"> 
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-1.webp" alt="partner"> 
 
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-2.webp" alt="partner">
-              
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-3.webp" alt="partner">
-              
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-4.webp" alt="partner">
-              
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-5.webp" alt="partner">
-              
-                <img class="img-fluid" width="176" height="90" src="assets/images/home/partner/partner-3.webp" alt="partner"> 
-            </div><!--//.row-->
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-2.webp" alt="partner">
+                
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-3.webp" alt="partner">
+                
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-4.webp" alt="partner">
+                
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-5.webp" alt="partner">
+                
+                <img class="img-fluid" width="176" height="90" src="assets/images/partner/partner-3.webp" alt="partner"> 
+            </div><!--//.row-->  
         </div><!--//.container-->
     </section>
     <!-- Trusted by over 100+ companies End -->

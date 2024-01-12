@@ -116,6 +116,31 @@ function topFunction() {
     } 
   });
 
+
+  $(".truatedSlider").owlCarousel({
+    autoplay: true, 
+    autoplayHoverPause: true,
+    smartSpeed: 550,
+    responsiveClass: true,
+    autoplayTimeout: 10000,
+    autoplaySpeed: 3000,
+    loop: true,
+    margin: 25,
+    items: 6,
+    nav: false,
+    dots: true, 
+    responsiveClass: true, 
+    responsive: { 
+        0: { items: 1 },
+        576: { items: 1  },
+        768: { items: 1 },
+        992: { items: 2 }, 
+        1200: { items: 6 },  
+    } 
+  });
+
+  
+
   $(".serviceBotslider").owlCarousel({
     autoplay: true, 
     autoplayHoverPause: true,
@@ -161,6 +186,8 @@ function topFunction() {
     } 
   });
 
+
+  
 
     
   $(".serviceSlider").owlCarousel({
