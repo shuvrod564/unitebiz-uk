@@ -76,35 +76,7 @@
                             </ul>
                         </td>
                     </tr> 
-                </table> 
-                  
-                <h2 class="h2 text-primary mt-5 pt-lg-3 mb-3">London Registered Office Address</h2>
-                <p>
-                    In the UK, a registered office is a legal requirement for all companies registered at Companies House. It is the company’s official address and is publicly available for anyone to view.
-                </p>
-                <p>
-                    All companies incorporated in the UK are legally required to display the registered office address on business correspondence such as letters and the business website.
-                </p>
-                <p>
-                    The address can be different to that of your business / trading address. 
-                </p>
-                <p>
-                    Companies House, HMRC, and other government bodies will use your registered office address to deliver statutory letters and legal notices. 
-                </p> 
-                  
-                <h3 class="h3 mt-5 text-gray mb-3">Can a ‘Registered Office Address for a UK company’ be outside of the UK?</h3>
-                <p>
-                    For a UK company, a registered office address cannot be outside of the UK. 
-                </p>
-                
-                <h3 class="h3 mt-5 text-gray mb-3">What is Registered Office Address Service?</h3>
-                <p>
-                    When you avail our ‘UK registered office’ service, all your business and official mail is delivered to us, sorted daily and can either be held for collection, scanned and emailed or posted to you 1st Class wherever you are in the world.
-                </p>
-                <p>
-                    We provide a comprehensive virtual office solution to empower startups and SMEs that wish to form a company in the United Kingdom.
-                </p> 
-                 
+                </table>  
  
             </div><!--.//col--> 
         </div><!--.//container-->

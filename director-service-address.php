@@ -43,7 +43,7 @@
                     We can provide you with a <strong class="text-dark">‘Director Service Address’</strong> if you wish to have a London address during the formation of the UK limited company. 
                 </p>
 
-                <h3 class="h3 text-gray mt-5 mb-3">Protecting the Privacy of the Officers</h3>
+                <h2 class="h2 text-primary mt-5 mb-3">Protecting the Privacy of the Officers</h2>
                 <p>
                     The new rules in the Companies Act states that all company officers (directors) must have 2 addresses registered with the registrar. These addresses are the private residential address of the director and the service address.
                 </p>

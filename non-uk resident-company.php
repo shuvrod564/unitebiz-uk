@@ -50,7 +50,7 @@
                     The application for registration of a UK Company can be submitted online with Companies House. 
                 </p>
 
-                <h2 class="h3 text-gray mt-5 fw-bold">What information do I need for the online application for registering a UK Company?</h2></p>
+                <h2 class="h2 text-primary mb-3 mt-5">What information do I need for the online application for registering a UK Company?</h2></p>
                 <ul class="disc__list li mb-3">
                     <li class="mb-3">A name for your company. We can help you check the availability of your desired name in the UK.</li>
                     <li class="mb-3">Details of the directors and shareholders are, and provide the following information for each: </li>
@@ -70,7 +70,7 @@
                     Choosing our non-resident package will automatically assign our registered office address and director service address to your company. 
                 </p>
 
-                <h3 class="h3 mt-5 text-gray fw-bold mb-3">How soon a company can be incorporated in the United Kingdom?</h3> 
+                <h2 class="h2 text-primary mt-5 mb-3">How soon a company can be incorporated in the United Kingdom?</h2> 
                 <p>
                     If you are wondering <strong class="text-dark">how long it takes to register a private company in the UK</strong>, the answer is there are a few things you can do to maximize your chances of starting a business in 24 hours. 
                 </p>
@@ -92,7 +92,7 @@
                     Our team is available 24x7 through our online Customer Service Desk and can reply instantly all your queries regarding the formation of a UK Company.
                 </p>
                  
-                <h3 class="h3 mt-5 text-gray fw-bold mb-3">How to submit the application for registering a UK Company successfully in the first attempt?</h3> 
+                <h2 class="h2 text-primary mt-5 mb-3">How to submit the application for registering a UK Company successfully in the first attempt?</h2> 
                 <p>
                     We can help you complete the application process for registration in a matter of hours, if you have all the information ready with you.
                 </p>
@@ -103,7 +103,7 @@
                     We can provide the <strong class="text-dark">Central London Address</strong> for completing the application for registering the company in the UK. You can also add our <strong class="text-dark">Director Service Address</strong> to your order for a minor additional fee.
                 </p>
                  
-                <h3 class="h3 mt-5 text-gray fw-bold mb-3">What next, after the successful submission of application for registering a UK Company?</h3>
+                <h2 class="h2 text-primary mt-5 mb-3">What next, after the successful submission of application for registering a UK Company?</h2>
                 <p>
                     You might have new queries after your application is submitted online with Companies House for registering a new Company in the UK. 
                 </p>
@@ -111,7 +111,7 @@
                     Experts at our company are available 24x7 through our online Customer Service Desk and can help you with the procedures of <strong class="text-dark">formation of a UK Company</strong>. During the application process, you need to have the latest ID proofs & address proofs and other details of all directors and shareholders.
                 </p>
 
-                <h3 class="h3 mt-5 text-gray fw-bold mb-3 ">Can you speed up the company formation in the UK?</h3>
+                <h2 class="h2 text-primary mt-5 mb-3 ">Can you speed up the company formation in the UK?</h2>
                 <p>
                     You should be able to complete the application process for registration in a matter of hours, as long as you have all the information at hand. The completion of the process depends on how busy the team at Companies House are. We can help you complete the application process successfully - read more on how to <strong class="text-dark">register a new company in the UK</strong>.
                 </p>
@@ -119,7 +119,7 @@
                     The amount of time it may take also vary depending on a number of factors such as the time of the day or week that you make the application for incorporating your new entity in the UK.
                 </p>
 
-                <h3 class="h3 mt-5 text-gray fw-bold mb-3">How to get started after the incorporation of your company in the UK?</h3>
+                <h2 class="h2 text-primary mt-5 mb-3">How to get started after the incorporation of your company in the UK?</h2>
                 <p>
                     Once you have successfully completed the registration of your company,  you will receive the Certificate of Incorporation along with other documents. 
                 </p>

@@ -42,9 +42,9 @@
                 <p>
                     When you want to start a business in the United Kingdom, you have several options in terms of choosing the structure of the business entity you want to operate with – however, the most common options are (1) registering a limited company and (2) operate as a sole trader. The right model for you depends on the specific needs of your business.
                 </p>
-                <p class="fw-bold text-dark">
+                <h2 class="h2 text-primary mt-5 mb-3">
                     What are the differences – UK Sole Trader vs. UK Limited Company
-                </p>
+                </h2>
                 <p>
                     A sole trader is a self-employed person who owns and runs his own business as an individual. A sole trader business does not have any legal identity separate to its owner. As a sole trader, you have absolute control over your business, its assets and profits after tax. Besides this control, this ‘sole trader’ business model offers a lot of comparative simplicity, versatility and a number of other advantages over other entity structures. 
                 </p>
@@ -75,13 +75,13 @@
                 <p>
                     This is made possible by the fact that once a company has been established, you are not required to commence trading with it. You can keep it <a class="link d-inline fw-semibold" href="https://www.1stformations.co.uk/blog/what-is-a-dormant-company/">dormant</a> for as long as you wish - couple of months, a few years, or for indefinite period of time – entirely up to you.
                 </p>
-                <p class="lead text-dark fw-bold">
+                <h2 class="h2 text-primary mt-5 mb-3">
                     How to maintain a UK dormant company (a company that doesn’t trade)?
-                </p>
+                </h2>
                
                 <p class="lead text-dark fw-normal">You need to ensure these three things for compliance purposes for a dormant company.</p>
                 
-                <h2 class="h3 text mt-5 text-gray mb-3">Notify HMRC </h2>
+                <h3 class="h3 text mt-5 text-gray mb-3">Notify HMRC </h3>
                    <p>Soon after the company formation process is successfully completed, you will receive at your company’s registered office a letter from HMRC with the company’s <strong class="text-dark">Unique Tax Reference</strong> Number.
                 </p> 
                  
@@ -89,12 +89,12 @@
                     Using the correspondence details in the letter, you can write back to the HMRC notifying them that the company will be dormant until further notice.
                 </p>
 
-                <h2 class="h3 mt-5 text-gray mb-3">File Confirmation Statement on annual basis</h2> 
+                <h3 class="h3 mt-5 text-gray mb-3">File Confirmation Statement on annual basis</h3> 
                 <p>
                     All limited companies need to mandatorily file a <strong class="text-dark">Confirmation Statement</strong> with Companies House on an annual basis. This is a report that declares basic information about a company. This is applicable for both trading and non-trading companies. 
                 </p>
 
-                <h2 class="h3 text mt-5 text-gray mb-3">File dormant company accounts on annual basis</h2> 
+                <h3 class="h3 text mt-5 text-gray mb-3">File dormant company accounts on annual basis</h3> 
                 <p>
                     All limited companies need to mandatorily file annual accounts on an annual basis. This report details the financial position and other financial details of a company. Dormant company can file a specific set of accounts knows a <strong class="text-dark">Dormant Company Accounts</strong>.
                 </p>
@@ -104,7 +104,7 @@
                     There are a few more things you can do to ensure the safety of your company name: 
                 </p>
 
-                <p> <strong class="text-dark">Register your Domain names & Trade Mark</strong></p>
+                <h2 class="h2 text-primary mt-5 mb-3"> Register your Domain names & Trade Mark</h2>
                 <p>
                     Even if you have no plan of trading online, you need to ensure that no one else use your company name & identity. All you need to do is – register your Domain name(s) & Trade Mark(s) relevant to your business name, so that you can ensure no one else have online presence that could be mistaken for yours. 
                 </p>
