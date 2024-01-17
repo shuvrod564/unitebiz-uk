@@ -6,103 +6,102 @@
                 <img src="<?php echo $base_url;?>assets/images/main-logo.svg" width="168" height="43" alt="UBCL UK">
             </a>
                
-            <ul class="navbar-nav d-none d-xl-flex align-items-center">       
+            <ul class="navbar-nav d-none d-xl-flex align-items-center position-relative ms-auto">       
                 <li class="nav-item"> 
                     <a href="<?php echo $base_url;?>about.php" class="nav-link">
                         About
                     </a>  
                 </li>         
-                <li class="nav-item dropdown ms-xxl-5 ms-3"> 
+                <li class="nav-item dropdown ms-xxl-5 ms-3 position-static"> 
                     <a href="#" class="nav-link dropdown-toggle fw-semibold" id="drop1" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">    
                         Services
                     </a> 
-                    <ul class="dropdown-menu p-2 rounded-3 border-0 bg-white" aria-labelledby="drop1">   
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>how-register-uk-company.php" class="dropdown-item fw-medium rounded-3 p-2 rounded-2">How to Register a UK Company</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>how-reserve-company-name.php" class="dropdown-item fw-medium rounded-3 p-2 rounded-2">How to Reserve a Company Name in the UK</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>register-company-name-uk.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Register a Company Name in the UK</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>non-uk resident-company.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Non-UK Resident Company Formations</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>registered-office.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Registered Office</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>london-registered-office.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">London Registered Office Address</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>director-service-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Director’s Service Address</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>guide-company-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Guide – Company Address</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>appointment-of-director.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Appointment of Director</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>resignation-of-director.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Resignation of Director</a>
-                        </li>  
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>faq.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Faq</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>identification-requirements.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Identification Requirements</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>company-formation-checklists.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Company Formation Checklists</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>shareholders-shareholders-agreements.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Shareholders & Shareholders’ Agreements</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>private-& public-limited-companies.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Private Limited Companies & Public Limited Companies</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>company-secretary.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Company Secretary</a>
-                        </li> 
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>money-laundering-regulations.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Money Laundering Regulations</a>
-                        </li> 
-                        
-                        <li class="dropdown">
-                            <a href="<?php echo $base_url;?>free-accounting-consultation.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Free Accounting Consultation</a>
-                        </li> 
-                        
-                        
-
-                        <!-- <ul class="dropdown-menu p-2 rounded-3 border-0 bg-white dropdown-submenu">
+                    <div class="dropdown-menu p-2 rounded-3 border-0 bg-white start-0" aria-labelledby="drop1"> 
+                        <ul class="row g-2 row-cols-2">   
                             <li>
-                                <a class="dropdown-item" href="<?php echo $base_url;?>register-company.php">Register a Company Name in the UK </a>
+                                <a href="<?php echo $base_url;?>how-register-uk-company.php" class="dropdown-item fw-medium rounded-3 p-2 rounded-2">How to Register a UK Company</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>how-reserve-company-name.php" class="dropdown-item fw-medium rounded-3 p-2 rounded-2">How to Reserve a Company Name in the UK</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>register-company-name-uk.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Register a Company Name in the UK</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>non-uk resident-company.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Non-UK Resident Company Formations</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>registered-office.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Registered Office</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>london-registered-office.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">London Registered Office Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>director-service-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Director’s Service Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>guide-company-address.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Guide – Company Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>appointment-of-director.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Appointment of Director</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>resignation-of-director.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Resignation of Director</a>
+                            </li>   
+                            <li>
+                                <a href="<?php echo $base_url;?>identification-requirements.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Identification Requirements</a>
                             </li> 
                             <li>
-                                <a class="dropdown-item" href="<?php echo $base_url;?>#">GCC Nationals Company</a>
-                            </li>
+                                <a href="<?php echo $base_url;?>company-formation-checklists.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Company Formation Checklists</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>shareholders-shareholders-agreements.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Shareholders & Shareholders’ Agreements</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>private-& public-limited-companies.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Private & Public Limited Companies</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>company-secretary.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Company Secretary</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>money-laundering-regulations.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Money Laundering Regulations</a>
+                            </li> 
                             
-                        </ul> --> 
-                    </ul> 
+                            <li>
+                                <a href="<?php echo $base_url;?>free-accounting-consultation.php" class="dropdown-item fw-medium overflow-hidden rounded-3 p-2 rounded-2">Free Accounting Consultation</a>
+                            </li> 
+                            
+                            
+    
+                            <!-- <ul class="dropdown-menu p-2 rounded-3 border-0 bg-white dropdown-submenu">
+                                <li>
+                                    <a class="dropdown-item" href="<?php echo $base_url;?>register-company.php">Register a Company Name in the UK </a>
+                                </li> 
+                                <li>
+                                    <a class="dropdown-item" href="<?php echo $base_url;?>#">GCC Nationals Company</a>
+                                </li>
+                                
+                            </ul> --> 
+                        </ul> 
+                    </div>
                 </li>         
                 <li class="nav-item dropdown ms-xxl-5 ms-3">
-                    <a href="<?php echo $base_url;?>about.php" class="nav-link">
+                    <a href="#" class="nav-link">
                         Locations
                     </a>  
+                </li>      
+                <li class="dropdown nav-item ms-lg-4 ms-xxl-5">
+                    <a class="nav-link dropdown-toggle" type="button" id="supportDrop" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Support
+                    </a>
+                    <div class="dropdown-menu p-2 rounded-3 border-0 bg-white" aria-labelledby="supportDrop" style="min-width:9rem;">
+                        <a class="dropdown-item rounded-2 fw-medium py-2 px-3" href="<?php echo $base_url;?>blog/">Blogs</a>
+                        <a class="dropdown-item rounded-2 fw-medium py-2 px-3" href="#">Resources</a>
+                        <a class="dropdown-item rounded-2 fw-medium py-2 px-3" href="#">Careers</a>
+                    </div>
                 </li>         
-                <li class="nav-item dropdown ms-xxl-5 ms-3"> 
-                    <a href="./blog/" class="nav-link">
-                        Blogs
-                    </a>  
-                </li>      
-                <li class="nav-item dropdown ms-xxl-5 ms-3"> 
-                    <a href="./blog/" class="nav-link">
-                        Resources
-                    </a>  
-                </li>      
                 <li class="nav-item ms-xxl-5 ms-3"> 
-                    <a href="<?php echo $base_url;?>contact.php" class="nav-link">
+                    <a href="<?php echo $base_url;?>contact.php" class="nav-link btn btn-primary height text-white px-4">
                         Contact Us
                     </a>  
                 </li>     
@@ -138,15 +137,58 @@
                         Services
                     </a>
                     <ul class="collapse" id="collapse1">  
-                        <li>
-                            <a href="<?php echo $base_url;?>how-register-uk-company.php">How to Register a UK Company</a>
-                        </li>  
-                        <li>
-                            <a href="<?php echo $base_url;?>how-reserve-company-name.php" >How to Reserve a Company Name in the UK</a>
-                        </li> 
-                        <li>
-                            <a href="<?php echo $base_url;?>register-company.php">Register a Company Name in the UK</a>
-                        </li>   
+                    <li>
+                                <a href="<?php echo $base_url;?>how-register-uk-company.php">How to Register a UK Company</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>how-reserve-company-name.php">How to Reserve a Company Name in the UK</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>register-company-name-uk.php">Register a Company Name in the UK</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>non-uk resident-company.php">Non-UK Resident Company Formations</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>registered-office.php">Registered Office</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>london-registered-office.php">London Registered Office Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>director-service-address.php">Director’s Service Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>guide-company-address.php">Guide – Company Address</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>appointment-of-director.php">Appointment of Director</a>
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>resignation-of-director.php">Resignation of Director</a>
+                            </li>   
+                            <li>
+                                <a href="<?php echo $base_url;?>identification-requirements.php">Identification Requirements</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>company-formation-checklists.php">Company Formation Checklists</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>shareholders-shareholders-agreements.php">Shareholders & Shareholders’ Agreements</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>private-& public-limited-companies.php">Private & Public Limited Companies</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>company-secretary.php">Company Secretary</a>
+                            </li> 
+                            <li>
+                                <a href="<?php echo $base_url;?>money-laundering-regulations.php">Money Laundering Regulations</a>
+                            </li> 
+                            
+                            <li>
+                                <a href="<?php echo $base_url;?>free-accounting-consultation.php">Free Accounting Consultation</a>
+                            </li> 
                     </ul>
                 </li>   
                 <li><a href="#">Locations</a></li>  

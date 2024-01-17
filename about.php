@@ -27,7 +27,7 @@
     <!-- Header Wrapper End --> 
 
      <!-- Need to Know About section Start -->
-    <section class="pb-5 pt-lg-5 unitebiz__wraper text-center text-lg-start">
+    <section class="pb-5 pt-5 unitebiz__wraper text-center text-lg-start">
         <div class="container">
             <div class="row g-4 gx-lg-5">
                 <div class="col-lg-5 col-md-12">
@@ -36,9 +36,7 @@
                             <span class="fs-3 d-block text-27 fw-normal mb-0">Need to Know About</span>
                             Unitebiz
                         </h2>
-                        <div class="text-center text-lg-start">
-                            <a href="#" class="btn btn-primary fw-semibold px-4 rounded-0 py-3">KNOW MORE</a>  
-                        </div> 
+                         
                     </div> 
                 </div>
                 <div class="col-lg-7 col-md-12">

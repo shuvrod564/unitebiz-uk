@@ -28,7 +28,7 @@
                 In today’s globalized world, the notion of geographical boundaries limiting your business prospects is fast becoming obsolete. 
             </p>
             <div class="text-center my-4">
-                <a href="#" class="btn btn-primary fw-semibold px-4 rounded-0 py-3 fs-15">LET’S TALK</a> 
+                <a href="contact.php" class="btn btn-primary fw-semibold px-4 rounded-0 py-3 fs-15">LET’S TALK</a> 
             </div>
             <img class="img-fluid position-absolute top-0 end-0 d-none d-md-block" width="63" height="183" src="assets/images/home/dots-top-right.webp" alt="thumbnail">
             <img class="img-fluid position-absolute start-0 d-none d-xl-block dots__left" width="63" height="183" src="assets/images/home/dots-top-right.webp" alt="thumbnail">

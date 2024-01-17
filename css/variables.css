@@ -475,6 +475,7 @@ ul li {
   background-color: var(--white) !important;
   transition: all 0.3s ease-in-out;
   position: fixed;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.15);
   top: 0;
   right: 0;
   left: 0;
@@ -497,9 +498,8 @@ ul li {
 .navbar .nav-item .nav-link:hover {
   color: var(--brand);
 }
-.navbar .nav-item.active .nav-link.btn-primary {
-  color: var(--white);
-  background-color: var(--dark);
+.navbar .nav-item.active .nav-link {
+  color: var(--brand);
 }
 .navbar .nav-link.btn-primary:hover, .navbar .nav-link.btn-primary:focus, .navbar .nav-link.btn-primary:active {
   color: var(--brand) !important;
@@ -509,7 +509,7 @@ ul li {
 }
 .navbar .dropdown .dropdown-menu {
   width: 100%;
-  min-width: 24rem;
+  min-width: 47rem;
   transition: all 0.3s ease;
   box-shadow: 0 0.25rem 0.5rem rgba(136, 187, 44, 0.21);
 }

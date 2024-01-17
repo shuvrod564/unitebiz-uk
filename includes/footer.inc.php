@@ -5,7 +5,7 @@
             <div class="row gx-3 gy-4 justify-content-between"> 
                 <div class="col-lg-4">
                     <a href="<?php echo $base_url;?>" class="d-inline-block logo" aria-label="UBCL UK">
-                        <img class="img-fluid" width="237" height="76" src="assets/images/footer-logo.svg" alt="UBCL UK">
+                        <img class="img-fluid" width="237" height="76" src="<?php echo $base_url;?>assets/images/footer-logo.svg" alt="UBCL UK">
                     </a>
                 </div>
                 <div class="col-lg-4">  
@@ -53,7 +53,10 @@
                                 <a href="#">
                                     Resources
                                 </a>  
-                            </li>      
+                            </li>  
+                            <li>
+                                <a href="<?php echo $base_url;?>faq.php">Faq</a>
+                            </li>     
                             <li> 
                                 <a href="#">
                                     Contact Us

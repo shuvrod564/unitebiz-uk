@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>Guide – Company Address</title>
-    <link rel="canonical" href="<?php echo $base_url;?>" />
+    <link rel="canonical" href="<?php echo $base_url;?>appointment-of-director.php" />
  
     <!-- All Stylesheets --> 
     <?php $folder='root'; include_once('includes/stylesheets.inc.php'); ?> 
@@ -20,7 +20,7 @@
     <header class="page__header py-5 d-flex align-items-center justify-content-center position-relative" style="background: url(assets/images/home/about-us/about-bg-thumbnail.webp) no-repeat center center / cover;"> 
     <div class="position-absolute top-0 start-0 w-100 h-100 header_gradient"></div>
         <div class="text-center container position-relative z-3 py-lg-5">
-            <h1 class="h2 text-white fw-semibold text-uppercase">Guide – Company Address</h1> 
+            <h1 class="h2 text-white fw-semibold text-uppercase">Appointment of Director</h1> 
         </div>   
         
     </header>
