@@ -1,4 +1,4 @@
 <?php 
-    $base_url = 'http://localhost/unitebiz-uk/';
-    // $base_url = 'https://trust-link.embraceindia.co.in/'; 
+    $base_url = 'http://localhost/unitebiz-uk/'; 
+    // $base_url = 'https://unitebix-uk.embraceindia.co.in/'; 
 ?>
